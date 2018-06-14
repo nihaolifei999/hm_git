@@ -3,3 +3,4 @@ append a line
 hello world
 
 nihaolifei123
+fuck!
